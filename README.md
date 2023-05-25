@@ -116,9 +116,10 @@ Main_program()
 
 ## Place:
 
-![image](https://github.com/Janani-2003/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/94288340/e7c3e4eb-7225-49a1-b618-80e6a5dc76dd)
+![image](https://github.com/Janani-2003/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/94288340/cb01b152-8326-4aed-a322-d63f1d084288)
 
-![image](https://github.com/Janani-2003/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/94288340/638bc364-0ff1-4563-b956-7330b7452ba1)
+
+![image](https://github.com/Janani-2003/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/94288340/45260223-f141-4b60-9d97-b3abb2964d57)
 
 
 
